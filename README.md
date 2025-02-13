@@ -3,11 +3,11 @@ I am a **C++ Developer and DevOps Practitioner** working in **Kubernetes, AWS, D
 
 ---
 
-🔭 **I’m currently working on:**  
+ **I’m currently working on:**  
 - **90 Days of DevOps Challenge** – Sharing insights & fixes daily  
 - **Mastering Kubernetes** in a 15-day deep dive  
 
-🌱 **I’m currently learning:**  
+ **I’m currently learning:**  
 - Advanced **Kubernetes, Docker Networking, and CI/CD**  
 - **Cloud Automation** and Infrastructure as Code (IaC)  
 - **C++ System Design & Low-Level Design (LLD)**  
@@ -16,11 +16,11 @@ I am a **C++ Developer and DevOps Practitioner** working in **Kubernetes, AWS, D
 - **DevOps Projects** involving Kubernetes, AWS, and CI/CD  
 - **Open-source contributions** related to DevOps & Cloud  
 
-🤔 **I’m looking for help with:**  
+ **I’m looking for help with:**  
 - **Mastering Kubernetes Security & Helm Charts**  
 - **Building production-grade CI/CD pipelines**  
 
-📫 **How to reach me:**  
+ **How to reach me:**  
 - **GitHub**: [github.com/SuchithraChandrasekaran](https://github.com/SuchithraChandrasekaran)  
 - **Twitter**: https://x.com/SuchithraCs
 - **LinkedIn**: https://www.linkedin.com/in/suchithrac
