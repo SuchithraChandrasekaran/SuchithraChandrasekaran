@@ -10,7 +10,6 @@ I am a **C++ Developer and DevOps Practitioner** working in **Kubernetes, AWS, D
  **I’m currently learning:**  
 - Advanced **Kubernetes, Docker Networking, and CI/CD**  
 - **Cloud Automation** and Infrastructure as Code (IaC)  
-- **C++ System Design & Low-Level Design (LLD)**  
 
 **I’m looking to collaborate on:**  
 - **DevOps Projects** involving Kubernetes, AWS, and CI/CD  
