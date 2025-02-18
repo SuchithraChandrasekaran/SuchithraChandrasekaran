@@ -20,6 +20,5 @@ I am a **C++ Developer and DevOps Practitioner** working in **Kubernetes, AWS, D
 - **Building production-grade CI/CD pipelines**  
 
  **How to reach me:**  
-- **GitHub**: [github.com/SuchithraChandrasekaran](https://github.com/SuchithraChandrasekaran)  
 - **LinkedIn**: https://www.linkedin.com/in/suchithrac
 ---
