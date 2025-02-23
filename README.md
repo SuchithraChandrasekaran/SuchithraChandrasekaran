@@ -4,7 +4,7 @@ I am a **C++ Developer and DevOps Practitioner** working in **Kubernetes, AWS, D
 ---
 
  **I’m currently working on:**  
-- **90 Days of DevOps Challenge** – Sharing insights & fixes daily   
+- **90 Days of DevOps Challenge** – Sharing insights & fixes daily in twitter   
 
  **I’m currently learning:**  
 - Advanced **Kubernetes, Docker Networking, and CI/CD**  
