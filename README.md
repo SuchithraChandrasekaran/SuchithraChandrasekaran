@@ -1,4 +1,4 @@
-# About Me  
+ 
 I am a **C++ Developer and DevOps Practitioner** working in **Kubernetes, AWS, Docker, and CI/CD**. I focus on automation, cloud infrastructure, and scalable software solutions.  
 
 ---
