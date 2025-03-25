@@ -1,19 +1,10 @@
  
-I am a **C++ Developer and DevOps Practitioner** working in **Kubernetes, AWS, Docker, and CI/CD**. I focus on automation, cloud infrastructure, and scalable software solutions.  
-
+**C++ Developer and DevOps Practitioner** 
 ---
 
- **I’m currently working on:**  
+ **currently working on:**  
 - **90 Days of DevOps Challenge** – Sharing insights & fixes daily in twitter   
 
- **I’m currently learning:**  
-- Advanced **Kubernetes, Docker Networking, and CI/CD**  
-- **Cloud Automation** and Infrastructure as Code (IaC)  
-
-**I’m looking to collaborate on:**  
-- **DevOps Projects** involving Kubernetes, AWS, and CI/CD  
-- **Open-source contributions** related to DevOps & Cloud  
-
- **How to reach me:**  
+ **reach me:**  
 - **LinkedIn**: https://www.linkedin.com/in/suchithrac
 ---
