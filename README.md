@@ -1,10 +1,8 @@
  
 **C++ Developer and DevOps Practitioner** 
 ---
-
- **currently working on:**  
-- **90 Days of DevOps Challenge** – Sharing insights & fixes daily in twitter   
+- **90 Days of DevOps Challenge** – Shared insights & fixes in Twitter  
 
  **reach me:**  
 - **LinkedIn**: https://www.linkedin.com/in/suchithrac
----
+- **Twitter** :https://x.com/SuchithraCs
