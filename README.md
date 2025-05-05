@@ -1,7 +1,13 @@
  
 **C++ Developer and DevOps Practitioner** 
 ---
-- **90 Days of DevOps Challenge** – Shared insights & fixes in Twitter  
+### Currently working on
+ Building DevOps real-world projects & sharing my learnings in 
+
+ https://github.com/SuchithraChandrasekaran/Devops_Projects_Learnings
+
+### Worked on
+****90 Days of DevOps Challenge**** – Shared insights & fixes in Twitter  
 
  **reach me:**  
 - **LinkedIn**: https://www.linkedin.com/in/suchithrac
