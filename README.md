@@ -2,7 +2,7 @@
 **C++ & DevOps Practitioner** 
 ---
 ### Currently working on
- Building DevOps real-time projects & sharing my learnings in 
+DevOps real-time projects & sharing learnings in 
 
  https://github.com/SuchithraChandrasekaran/Devops_Projects_Learnings
 
