@@ -1,5 +1,5 @@
  
-**C++ & DevOps Practitioner** 
+**AWS certified DevOps Engineer** 
 ---
 ### Currently working on
 DevOps real-time projects & sharing learnings in 
