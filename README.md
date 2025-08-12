@@ -1,5 +1,5 @@
  
-**AWS certified DevOps Engineer** 
+**DevOps Practitioner** 
 ---
 ### Currently working on
 DevOps real-time projects & sharing learnings in 
